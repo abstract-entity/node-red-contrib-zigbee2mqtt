@@ -11,7 +11,8 @@
     "mqtt": "^4.3.6",
     "multiple-select": "^1.5.2",
     "request": "^2.88.2",
-    "viz.js": "^2.1.2"
+    "viz.js": "^2.1.2",
+    "debug": "^4.3.4"
   },
   "keywords": [
     "zigbee2mqtt",
